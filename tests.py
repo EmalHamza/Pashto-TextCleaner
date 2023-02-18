@@ -2,7 +2,7 @@
 
 from __future__ import unicode_literals
 import sys, inspect, doctest, unittest
-from hazm import *
+from hamza import *
 
 modules = {
     "persica": PersicaReader,
